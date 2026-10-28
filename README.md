@@ -1,5 +1,3 @@
-Objetivo: quero ganhar 16 estrelas nesse repositorio;DDDD
-Observação: o aplicativo em si e muito bom, inclusive eu uso ele para clonar meus arquivos e pastas do github
 # 🎁 gitwrapped
 
 > O **Spotify Wrapped** do seu repositório Git, direto no terminal.
@@ -17,7 +15,7 @@ Descubra:
 ## Instalação
 
 ```bash
-git clone https://github.com/SEU-USUARIO/gitwrapped.git
+git clone https://github.com/gabrielcc222/gitwrapped.git
 cd gitwrapped
 python gitwrapped.py /caminho/do/seu/repo
 ```
