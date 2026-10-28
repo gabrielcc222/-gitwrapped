@@ -15,7 +15,7 @@ Descubra:
 ## Instalação
 
 ```bash
-git clone https://github.com/SEU-USUARIO/gitwrapped.git
+git clone https://github.com/gabrielcc222/gitwrapped.git
 cd gitwrapped
 python gitwrapped.py /caminho/do/seu/repo
 ```
