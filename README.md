@@ -1,5 +1,3 @@
-Objetivo: quero ganhar 16 estrelas nesse repositorio;DDDD
-Observação: o aplicativo em si e muito bom, inclusive eu uso ele para clonar meus arquivos e pastas do github
 # 🎁 gitwrapped
 
 > O **Spotify Wrapped** do seu repositório Git, direto no terminal.
